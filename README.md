@@ -1,2 +1,3 @@
 # Car_Price_Analysis
-In this project, I have analysed the prices of different cars using Pandas, Numpy, Matplotlib, Seaborn.
+Detailed Exploratory Data Analysis project on the Car Price dataset in which we had a huge data of cars along with their specifications and price.
+Technologies used- Pandas, Numpy, Matplotlib, Seaborn
